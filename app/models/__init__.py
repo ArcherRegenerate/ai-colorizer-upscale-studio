@@ -1,0 +1,1 @@
+"""Pydantic data models for jobs, results, and batch reports."""
