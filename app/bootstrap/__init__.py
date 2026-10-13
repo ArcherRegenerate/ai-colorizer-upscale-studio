@@ -1,0 +1,1 @@
+"""Entry points: CLI, desktop GUI, and shared bootstrapping."""
