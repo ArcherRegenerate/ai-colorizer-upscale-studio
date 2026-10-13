@@ -1,0 +1,1 @@
+"""Thin event handlers. No business logic — decode, validate, delegate."""
